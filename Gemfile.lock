@@ -1,0 +1,14 @@
+GEM
+  specs:
+    rmagick (4.0.0)
+    ruby-fann (1.2.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rmagick
+  ruby-fann
+
+BUNDLED WITH
+   1.16.6
